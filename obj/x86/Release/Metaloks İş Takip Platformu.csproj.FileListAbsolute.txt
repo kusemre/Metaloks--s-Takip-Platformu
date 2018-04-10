@@ -1,0 +1,12 @@
+C:\Users\EMRE\Documents\Visual Studio 2010\Projects\Metaloks İş Takip Platformu\Metaloks İş Takip Platformu\bin\Release\Metaloks İş Takip Platformu.exe.config
+C:\Users\EMRE\Documents\Visual Studio 2010\Projects\Metaloks İş Takip Platformu\Metaloks İş Takip Platformu\bin\Release\Metaloks İş Takip Platformu.exe
+C:\Users\EMRE\Documents\Visual Studio 2010\Projects\Metaloks İş Takip Platformu\Metaloks İş Takip Platformu\bin\Release\Metaloks İş Takip Platformu.pdb
+C:\Users\EMRE\Documents\Visual Studio 2010\Projects\Metaloks İş Takip Platformu\Metaloks İş Takip Platformu\obj\x86\Release\Metaloks_İş_Takip_Platformu.Form1.resources
+C:\Users\EMRE\Documents\Visual Studio 2010\Projects\Metaloks İş Takip Platformu\Metaloks İş Takip Platformu\obj\x86\Release\Metaloks_İş_Takip_Platformu.Form2.resources
+C:\Users\EMRE\Documents\Visual Studio 2010\Projects\Metaloks İş Takip Platformu\Metaloks İş Takip Platformu\obj\x86\Release\Metaloks_İş_Takip_Platformu.Properties.Resources.resources
+C:\Users\EMRE\Documents\Visual Studio 2010\Projects\Metaloks İş Takip Platformu\Metaloks İş Takip Platformu\obj\x86\Release\Metaloks İş Takip Platformu.csproj.GenerateResource.Cache
+C:\Users\EMRE\Documents\Visual Studio 2010\Projects\Metaloks İş Takip Platformu\Metaloks İş Takip Platformu\obj\x86\Release\Metaloks İş Takip Platformu.exe
+C:\Users\EMRE\Documents\Visual Studio 2010\Projects\Metaloks İş Takip Platformu\Metaloks İş Takip Platformu\obj\x86\Release\Metaloks İş Takip Platformu.pdb
+C:\Users\EMRE\documents\visual studio 2010\Projects\Metaloks İş Takip Platformu\Metaloks İş Takip Platformu\bin\Release\metaloksveritabanı.mdf
+C:\Users\EMRE\documents\visual studio 2010\Projects\Metaloks İş Takip Platformu\Metaloks İş Takip Platformu\bin\Release\metaloksveritabanı_log.ldf
+C:\Users\EMRE\documents\visual studio 2010\Projects\Metaloks İş Takip Platformu\Metaloks İş Takip Platformu\obj\x86\Release\Metaloks İş Takip Platformu.csprojResolveAssemblyReference.cache
